@@ -103,7 +103,6 @@ def bfs(G, start, end):
     return None
 
 ### Main ###
-print(parse_input("a1"))
 
 row_size = int(input("Entrez nombre de lignes : "))
 col_size = int(input("Entrez nombre de colonnes : "))
