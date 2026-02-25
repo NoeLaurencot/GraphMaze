@@ -42,3 +42,5 @@ Pour l'éxecuter:
 ```bash
 python maze.py
 ```
+### Créateur
+Noé Laurençot - S2B1
