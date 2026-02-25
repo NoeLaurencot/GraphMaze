@@ -7,7 +7,7 @@ Ce projet a été réalisé dans le cadre du BUT Informatique, semestre 2. Il me
 ### Notions de théorie des graphes utilisées
 - **Graphe non orienté** : représentation du labyrinthe sous forme de graphe où chaque case est un sommet et chaque passage une arête.
 - **Arbre couvrant minimal** : génération du labyrinthe à l'aide d'un arbre couvrant minimal pour garantir que le labyrinthe ne sois pas coupé.
-- **Parcours en largeur (BFS)** : recherche du chemin le plus court entre l'entrée et la sortie du labyrinthe.
+- **Parcours en largeur (BFS)** : recherche du chemin le plus court entre deux points du labyrinthe.
 
 ### Dépendances
 - Python 3
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ### Utilisation
 Le script `maze.py` permet de :
 - Générer un labyrinthe
-- Ajouter un nombre défini de cycles
+- Ajouter un nombre défini de cycles (ajouter d'autres chemins)
 - Trouver et afficher le chemin le plus court entre deux noeuds
 
 Pour l'éxecuter:
