@@ -129,7 +129,6 @@ def draw_maze_terminal(G, rows, cols, path=None, start=None, end=None, point_lis
             top += "+" + ("----" if has_wall_above else "    ")
         top += "+"
         print(top)
-
         cell_row = f" {row + 1:3} "
         for col in range(cols):
             has_wall_left = (col == 0) or not G.has_edge((row, col), (row, col - 1))
