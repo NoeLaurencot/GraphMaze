@@ -1,0 +1,7 @@
+GraphMaze
+=========
+
+.. automodule:: maze
+   :members:
+   :undoc-members:
+   :show-inheritance:
