@@ -44,7 +44,7 @@ python maze.py
 ```
 
 ## Documentation
-Ouvrir `docs/_build/html/index.html` dans un navigateur.
+Ouvrir [documentation](https://noelaurencot.github.io/GraphMaze/)
 
 ### Créateur
 Noé Laurençot - S2B1
