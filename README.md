@@ -42,5 +42,9 @@ Pour l'éxecuter:
 ```bash
 python maze.py
 ```
+
+## Documentation
+Ouvrir `docs/_build/html/index.html` dans un navigateur.
+
 ### Créateur
 Noé Laurençot - S2B1
