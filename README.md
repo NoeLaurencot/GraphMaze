@@ -17,7 +17,8 @@ Créer et activer un venv python :
 
 **Linux / macOS**
 ```bash
-python -m venv .venv && source .venv/bin/activate
+python -m venv .venv
+source .venv/bin/activate
 ```
 
 **Windows**
